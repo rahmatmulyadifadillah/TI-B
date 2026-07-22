@@ -1,0 +1,5108 @@
+{
+  "courts": [
+    {
+      "id": "court-futsal-vinyl",
+      "name": "Lapangan Futsal Vinyl Premium",
+      "category": "futsal",
+      "courtType": "Vinyl",
+      "price": 150000,
+      "capacity": 10,
+      "size": "38m x 18m",
+      "description": "Lapangan futsal indoor dengan lantai material Vinyl berkualitas tinggi standard internasional. Memiliki daya cengkram optimal, mengurangi risiko cedera lutut dan pergelangan kaki.",
+      "facilities": [
+        "Toilet",
+        "Musholla",
+        "Wifi",
+        "Parkir",
+        "Kantin",
+        "Ruang Ganti",
+        "Locker",
+        "Tribun Penonton",
+        "Lampu Malam"
+      ],
+      "status": "aktif",
+      "rating": 4.8,
+      "reviewsCount": 12,
+      "image": "/uploads/upload-1784035448905.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "view360Url": "https://images.unsplash.com/photo-1517649763962-0c623066013b"
+    },
+    {
+      "id": "court-futsal-rumput",
+      "name": "Lapangan Futsal Rumput Sintetis",
+      "category": "futsal",
+      "courtType": "Rumput Sintetis",
+      "price": 130000,
+      "capacity": 12,
+      "size": "40m x 20m",
+      "description": "Lapangan futsal indoor dengan rumput sintetis premium yang lembut dan padat. Dilengkapi dengan butiran karet pengisi (rubber infill) berkualitas untuk pantulan bola yang sempurna.",
+      "facilities": [
+        "Toilet",
+        "Musholla",
+        "Parkir",
+        "Kantin",
+        "Ruang Ganti",
+        "Locker",
+        "Lampu Malam"
+      ],
+      "status": "aktif",
+      "rating": 4.6,
+      "reviewsCount": 8,
+      "image": "/uploads/upload-1784035476674.jpg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "view360Url": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68"
+    },
+    {
+      "id": "court-futsal-interlock",
+      "name": "Lapangan Futsal Interlock",
+      "category": "futsal",
+      "courtType": "Interlock",
+      "price": 120000,
+      "capacity": 10,
+      "size": "38m x 18m",
+      "description": "Lapangan futsal semi-outdoor menggunakan lantai interlock polipropilena yang kokoh dan memiliki drainase yang baik. Sangat cocok untuk permainan cepat dan latihan fisik intens.",
+      "facilities": [
+        "Toilet",
+        "Parkir",
+        "Kantin",
+        "Ruang Ganti",
+        "Lampu Malam"
+      ],
+      "status": "aktif",
+      "rating": 4.5,
+      "reviewsCount": 5,
+      "image": "/uploads/upload-1784035500008.jpeg",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    }
+  ],
+  "schedules": [
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-0",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "07:00 - 08:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-1",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "08:00 - 09:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-2",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "09:00 - 10:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-3",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "10:00 - 11:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-4",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "11:00 - 12:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-5",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "12:00 - 13:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-6",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "13:00 - 14:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-7",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "14:00 - 15:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-8",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "15:00 - 16:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-9",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "16:00 - 17:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-10",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "17:00 - 18:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-11",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "18:00 - 19:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-12",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "19:00 - 20:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-13",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "20:00 - 21:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-14",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "21:00 - 22:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-07-15",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-07",
+      "timeSlot": "22:00 - 23:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-0",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "07:00 - 08:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-1",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "08:00 - 09:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-2",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "09:00 - 10:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-3",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "10:00 - 11:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-4",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "11:00 - 12:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-5",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "12:00 - 13:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-6",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "13:00 - 14:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-7",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "14:00 - 15:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-8",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "15:00 - 16:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-9",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "16:00 - 17:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-10",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "17:00 - 18:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-11",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "18:00 - 19:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-12",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "19:00 - 20:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-13",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "20:00 - 21:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-14",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "21:00 - 22:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-07-15",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-07",
+      "timeSlot": "22:00 - 23:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-0",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "07:00 - 08:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-1",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "08:00 - 09:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-2",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "09:00 - 10:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-3",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "10:00 - 11:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-4",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "11:00 - 12:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-5",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "12:00 - 13:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-6",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "13:00 - 14:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-7",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "14:00 - 15:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-8",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "15:00 - 16:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-9",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "16:00 - 17:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-10",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "17:00 - 18:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-11",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "18:00 - 19:00",
+      "price": 120000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-12",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "19:00 - 20:00",
+      "price": 120000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-13",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "20:00 - 21:00",
+      "price": 120000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-14",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "21:00 - 22:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-07-15",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-07",
+      "timeSlot": "22:00 - 23:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-0",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "07:00 - 08:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-1",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "08:00 - 09:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-2",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "09:00 - 10:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-3",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "10:00 - 11:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-4",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "11:00 - 12:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-5",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "12:00 - 13:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-6",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "13:00 - 14:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-7",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "14:00 - 15:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-8",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "15:00 - 16:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-9",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "16:00 - 17:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-10",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "17:00 - 18:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-11",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "18:00 - 19:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-12",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "19:00 - 20:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-13",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "20:00 - 21:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-14",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "21:00 - 22:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-08-15",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-08",
+      "timeSlot": "22:00 - 23:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-0",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "07:00 - 08:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-1",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "08:00 - 09:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-2",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "09:00 - 10:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-3",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "10:00 - 11:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-4",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "11:00 - 12:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-5",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "12:00 - 13:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-6",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "13:00 - 14:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-7",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "14:00 - 15:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-8",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "15:00 - 16:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-9",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "16:00 - 17:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-10",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "17:00 - 18:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-11",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "18:00 - 19:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-12",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "19:00 - 20:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-13",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "20:00 - 21:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-14",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "21:00 - 22:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-08-15",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-08",
+      "timeSlot": "22:00 - 23:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-0",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "07:00 - 08:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-1",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "08:00 - 09:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-2",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "09:00 - 10:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-3",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "10:00 - 11:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-4",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "11:00 - 12:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-5",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "12:00 - 13:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-6",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "13:00 - 14:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-7",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "14:00 - 15:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-8",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "15:00 - 16:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-9",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "16:00 - 17:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-10",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "17:00 - 18:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-11",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "18:00 - 19:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-12",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "19:00 - 20:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-13",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "20:00 - 21:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-14",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "21:00 - 22:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-08-15",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-08",
+      "timeSlot": "22:00 - 23:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-0",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "07:00 - 08:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-1",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "08:00 - 09:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-2",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "09:00 - 10:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-3",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "10:00 - 11:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-4",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "11:00 - 12:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-5",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "12:00 - 13:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-6",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "13:00 - 14:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-7",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "14:00 - 15:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-8",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "15:00 - 16:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-9",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "16:00 - 17:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-10",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "17:00 - 18:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-11",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "18:00 - 19:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-12",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "19:00 - 20:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-13",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "20:00 - 21:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-14",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "21:00 - 22:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-09-15",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-09",
+      "timeSlot": "22:00 - 23:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-0",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "07:00 - 08:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-1",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "08:00 - 09:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-2",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "09:00 - 10:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-3",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "10:00 - 11:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-4",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "11:00 - 12:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-5",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "12:00 - 13:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-6",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "13:00 - 14:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-7",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "14:00 - 15:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-8",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "15:00 - 16:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-9",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "16:00 - 17:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-10",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "17:00 - 18:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-11",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "18:00 - 19:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-12",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "19:00 - 20:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-13",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "20:00 - 21:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-14",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "21:00 - 22:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-09-15",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-09",
+      "timeSlot": "22:00 - 23:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-0",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "07:00 - 08:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-1",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "08:00 - 09:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-2",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "09:00 - 10:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-3",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "10:00 - 11:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-4",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "11:00 - 12:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-5",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "12:00 - 13:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-6",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "13:00 - 14:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-7",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "14:00 - 15:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-8",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "15:00 - 16:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-9",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "16:00 - 17:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-10",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "17:00 - 18:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-11",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "18:00 - 19:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-12",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "19:00 - 20:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-13",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "20:00 - 21:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-14",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "21:00 - 22:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-09-15",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-09",
+      "timeSlot": "22:00 - 23:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-0",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "07:00 - 08:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-1",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "08:00 - 09:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-2",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "09:00 - 10:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-3",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "10:00 - 11:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-4",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "11:00 - 12:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-5",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "12:00 - 13:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-6",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "13:00 - 14:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-7",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "14:00 - 15:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-8",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "15:00 - 16:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-9",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "16:00 - 17:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-10",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "17:00 - 18:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-11",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "18:00 - 19:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-12",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "19:00 - 20:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-13",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "20:00 - 21:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-14",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "21:00 - 22:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-10-15",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-10",
+      "timeSlot": "22:00 - 23:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-0",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "07:00 - 08:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-1",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "08:00 - 09:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-2",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "09:00 - 10:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-3",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "10:00 - 11:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-4",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "11:00 - 12:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-5",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "12:00 - 13:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-6",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "13:00 - 14:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-7",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "14:00 - 15:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-8",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "15:00 - 16:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-9",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "16:00 - 17:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-10",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "17:00 - 18:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-11",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "18:00 - 19:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-12",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "19:00 - 20:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-13",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "20:00 - 21:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-14",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "21:00 - 22:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-10-15",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-10",
+      "timeSlot": "22:00 - 23:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-0",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "07:00 - 08:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-1",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "08:00 - 09:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-2",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "09:00 - 10:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-3",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "10:00 - 11:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-4",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "11:00 - 12:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-5",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "12:00 - 13:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-6",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "13:00 - 14:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-7",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "14:00 - 15:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-8",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "15:00 - 16:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-9",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "16:00 - 17:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-10",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "17:00 - 18:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-11",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "18:00 - 19:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-12",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "19:00 - 20:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-13",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "20:00 - 21:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-14",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "21:00 - 22:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-10-15",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-10",
+      "timeSlot": "22:00 - 23:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-0",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "07:00 - 08:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-1",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "08:00 - 09:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-2",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "09:00 - 10:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-3",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "10:00 - 11:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-4",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "11:00 - 12:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-5",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "12:00 - 13:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-6",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "13:00 - 14:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-7",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "14:00 - 15:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-8",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "15:00 - 16:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-9",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "16:00 - 17:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-10",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "17:00 - 18:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-11",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "18:00 - 19:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-12",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "19:00 - 20:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-13",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "20:00 - 21:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-14",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "21:00 - 22:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-11-15",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-11",
+      "timeSlot": "22:00 - 23:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-0",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "07:00 - 08:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-1",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "08:00 - 09:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-2",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "09:00 - 10:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-3",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "10:00 - 11:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-4",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "11:00 - 12:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-5",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "12:00 - 13:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-6",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "13:00 - 14:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-7",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "14:00 - 15:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-8",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "15:00 - 16:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-9",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "16:00 - 17:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-10",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "17:00 - 18:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-11",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "18:00 - 19:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-12",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "19:00 - 20:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-13",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "20:00 - 21:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-14",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "21:00 - 22:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-11-15",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-11",
+      "timeSlot": "22:00 - 23:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-0",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "07:00 - 08:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-1",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "08:00 - 09:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-2",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "09:00 - 10:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-3",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "10:00 - 11:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-4",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "11:00 - 12:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-5",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "12:00 - 13:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-6",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "13:00 - 14:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-7",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "14:00 - 15:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-8",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "15:00 - 16:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-9",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "16:00 - 17:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-10",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "17:00 - 18:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-11",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "18:00 - 19:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-12",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "19:00 - 20:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-13",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "20:00 - 21:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-14",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "21:00 - 22:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-11-15",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-11",
+      "timeSlot": "22:00 - 23:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-0",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "07:00 - 08:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-1",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "08:00 - 09:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-2",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "09:00 - 10:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-3",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "10:00 - 11:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-4",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "11:00 - 12:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-5",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "12:00 - 13:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-6",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "13:00 - 14:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-7",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "14:00 - 15:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-8",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "15:00 - 16:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-9",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "16:00 - 17:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-10",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "17:00 - 18:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-11",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "18:00 - 19:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-12",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "19:00 - 20:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-13",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "20:00 - 21:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-14",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "21:00 - 22:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-12-15",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-12",
+      "timeSlot": "22:00 - 23:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-0",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "07:00 - 08:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-1",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "08:00 - 09:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-2",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "09:00 - 10:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-3",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "10:00 - 11:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-4",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "11:00 - 12:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-5",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "12:00 - 13:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-6",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "13:00 - 14:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-7",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "14:00 - 15:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-8",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "15:00 - 16:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-9",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "16:00 - 17:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-10",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "17:00 - 18:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-11",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "18:00 - 19:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-12",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "19:00 - 20:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-13",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "20:00 - 21:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-14",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "21:00 - 22:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-12-15",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-12",
+      "timeSlot": "22:00 - 23:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-0",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "07:00 - 08:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-1",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "08:00 - 09:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-2",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "09:00 - 10:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-3",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "10:00 - 11:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-4",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "11:00 - 12:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-5",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "12:00 - 13:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-6",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "13:00 - 14:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-7",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "14:00 - 15:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-8",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "15:00 - 16:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-9",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "16:00 - 17:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-10",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "17:00 - 18:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-11",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "18:00 - 19:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-12",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "19:00 - 20:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-13",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "20:00 - 21:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-14",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "21:00 - 22:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-12-15",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-12",
+      "timeSlot": "22:00 - 23:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-0",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "07:00 - 08:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-1",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "08:00 - 09:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-2",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "09:00 - 10:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-3",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "10:00 - 11:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-4",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "11:00 - 12:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-5",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "12:00 - 13:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-6",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "13:00 - 14:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-7",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "14:00 - 15:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-8",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "15:00 - 16:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-9",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "16:00 - 17:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-10",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "17:00 - 18:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-11",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "18:00 - 19:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-12",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "19:00 - 20:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-13",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "20:00 - 21:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-14",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "21:00 - 22:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-13-15",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-13",
+      "timeSlot": "22:00 - 23:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-0",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "07:00 - 08:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-1",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "08:00 - 09:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-2",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "09:00 - 10:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-3",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "10:00 - 11:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-4",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "11:00 - 12:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-5",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "12:00 - 13:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-6",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "13:00 - 14:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-7",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "14:00 - 15:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-8",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "15:00 - 16:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-9",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "16:00 - 17:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-10",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "17:00 - 18:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-11",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "18:00 - 19:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-12",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "19:00 - 20:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-13",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "20:00 - 21:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-14",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "21:00 - 22:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-13-15",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-13",
+      "timeSlot": "22:00 - 23:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-0",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "07:00 - 08:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-1",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "08:00 - 09:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-2",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "09:00 - 10:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-3",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "10:00 - 11:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-4",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "11:00 - 12:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-5",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "12:00 - 13:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-6",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "13:00 - 14:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-7",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "14:00 - 15:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-8",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "15:00 - 16:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-9",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "16:00 - 17:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-10",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "17:00 - 18:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-11",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "18:00 - 19:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-12",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "19:00 - 20:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-13",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "20:00 - 21:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-14",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "21:00 - 22:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-interlock-2026-07-13-15",
+      "courtId": "court-futsal-interlock",
+      "date": "2026-07-13",
+      "timeSlot": "22:00 - 23:00",
+      "price": 120000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-0",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "07:00 - 08:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-1",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "08:00 - 09:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-2",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "09:00 - 10:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-3",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "10:00 - 11:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-4",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "11:00 - 12:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-5",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "12:00 - 13:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-6",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "13:00 - 14:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-7",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "14:00 - 15:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-8",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "15:00 - 16:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-9",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "16:00 - 17:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-10",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "17:00 - 18:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-11",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "18:00 - 19:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-12",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "19:00 - 20:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-13",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "20:00 - 21:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-14",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "21:00 - 22:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-14-15",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-14",
+      "timeSlot": "22:00 - 23:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-0",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "07:00 - 08:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-1",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "08:00 - 09:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-2",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "09:00 - 10:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-3",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "10:00 - 11:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-4",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "11:00 - 12:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-5",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "12:00 - 13:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-6",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "13:00 - 14:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-7",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "14:00 - 15:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-8",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "15:00 - 16:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-9",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "16:00 - 17:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-10",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "17:00 - 18:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-11",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "18:00 - 19:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-12",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "19:00 - 20:00",
+      "price": 130000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-13",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "20:00 - 21:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-14",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "21:00 - 22:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-rumput-2026-07-22-15",
+      "courtId": "court-futsal-rumput",
+      "date": "2026-07-22",
+      "timeSlot": "22:00 - 23:00",
+      "price": 130000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-0",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "07:00 - 08:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-1",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "08:00 - 09:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-2",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "09:00 - 10:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-3",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "10:00 - 11:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-4",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "11:00 - 12:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-5",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "12:00 - 13:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-6",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "13:00 - 14:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-7",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "14:00 - 15:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-8",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "15:00 - 16:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-9",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "16:00 - 17:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-10",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "17:00 - 18:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-11",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "18:00 - 19:00",
+      "price": 150000,
+      "status": "dipesan"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-12",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "19:00 - 20:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-13",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "20:00 - 21:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-14",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "21:00 - 22:00",
+      "price": 150000,
+      "status": "tersedia"
+    },
+    {
+      "id": "slot-court-futsal-vinyl-2026-07-22-15",
+      "courtId": "court-futsal-vinyl",
+      "date": "2026-07-22",
+      "timeSlot": "22:00 - 23:00",
+      "price": 150000,
+      "status": "tersedia"
+    }
+  ],
+  "users": [
+    {
+      "id": "user-superadmin",
+      "email": "superadmin@utmsport.com",
+      "name": "Rahmat Mulyadi (Admin)",
+      "phone": "081339638842",
+      "photoUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=150",
+      "role": "admin",
+      "status": "aktif",
+      "points": 1000,
+      "referralCode": "UTM_SUPER",
+      "membership": "gold",
+      "createdAt": "2026-01-01T10:00:00Z"
+    },
+    {
+      "id": "user-admin",
+      "email": "admin@utmsport.com",
+      "name": "Admin UTM Sport",
+      "phone": "081339638842",
+      "photoUrl": "/uploads/upload-1784052420659.jpeg",
+      "role": "admin",
+      "status": "aktif",
+      "points": 500,
+      "referralCode": "UTM_ADMIN",
+      "membership": "silver",
+      "createdAt": "2026-01-05T12:00:00Z"
+    },
+    {
+      "id": "user-operator",
+      "email": "operator@utmsport.com",
+      "name": "Operator Lapangan",
+      "phone": "081339638842",
+      "photoUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150",
+      "role": "operator",
+      "status": "aktif",
+      "points": 100,
+      "referralCode": "UTM_OPERATOR",
+      "membership": "regular",
+      "createdAt": "2026-02-10T14:00:00Z"
+    },
+    {
+      "id": "user-regular",
+      "email": "user@utmsport.com",
+      "name": "Rahmat Mulyadi Fadillah",
+      "phone": "081339638842",
+      "photoUrl": "/uploads/upload-1784733686315.jpeg",
+      "role": "user",
+      "status": "aktif",
+      "points": 3404,
+      "referralCode": "RAHMAT842",
+      "referredBy": "UTM_SUPER",
+      "membership": "silver",
+      "createdAt": "2026-06-01T08:00:00Z"
+    },
+    {
+      "id": "user-1783418602882",
+      "email": "rahmatmulyadifadillah@gmail.com",
+      "name": "MuL",
+      "phone": "081339638842",
+      "photoUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=150",
+      "role": "user",
+      "status": "aktif",
+      "points": 680,
+      "referralCode": "UTM-MUL619",
+      "membership": "regular",
+      "createdAt": "2026-07-07T10:03:22.882Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "book-test-456",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-456789",
+      "courtCategory": "futsal",
+      "totalAmount": 150000,
+      "discountAmount": 0,
+      "finalAmount": 150000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "ditolak",
+      "notes": " (Dibatalkan oleh user. Refund +1200 Points)",
+      "createdAt": "2026-07-12T13:00:00Z",
+      "details": [
+        {
+          "id": "det-test-456",
+          "bookingId": "book-test-456",
+          "courtId": "court-futsal-vinyl",
+          "courtName": "Lapangan Futsal Vinyl Premium",
+          "date": "2026-07-12",
+          "timeSlot": "07:00 - 08:00",
+          "price": 150000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-456789"
+    },
+    {
+      "id": "book-1784733468744",
+      "userId": "user-1783418602882",
+      "userName": "MuL",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-468744-267",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 0,
+      "finalAmount": 130000,
+      "paymentMethod": "BRI",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:17:48.744Z",
+      "details": [
+        {
+          "id": "det-1784733468744-284",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "13:00 - 14:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-468744-267"
+    },
+    {
+      "id": "book-1784733576312",
+      "userId": "user-1783418602882",
+      "userName": "MuL",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-576312-355",
+      "courtCategory": "futsal",
+      "totalAmount": 150000,
+      "discountAmount": 0,
+      "finalAmount": 150000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:19:36.312Z",
+      "details": [
+        {
+          "id": "det-1784733576312-380",
+          "bookingId": "",
+          "courtId": "court-futsal-vinyl",
+          "courtName": "Lapangan Futsal Vinyl Premium",
+          "date": "2026-07-22",
+          "timeSlot": "18:00 - 19:00",
+          "price": 150000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-576312-355"
+    },
+    {
+      "id": "book-1784733594989",
+      "userId": "user-1783418602882",
+      "userName": "MuL",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-594989-961",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 0,
+      "finalAmount": 130000,
+      "paymentMethod": "Bank NTB Syariah",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:19:54.989Z",
+      "details": [
+        {
+          "id": "det-1784733594989-10",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "17:00 - 18:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-594989-961"
+    },
+    {
+      "id": "book-1784733617174",
+      "userId": "user-1783418602882",
+      "userName": "MuL",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-617174-351",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 0,
+      "finalAmount": 130000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:20:17.174Z",
+      "details": [
+        {
+          "id": "det-1784733617174-46",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "18:00 - 19:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-617174-351"
+    },
+    {
+      "id": "book-1784733633472",
+      "userId": "user-1783418602882",
+      "userName": "MuL",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-633472-538",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 0,
+      "finalAmount": 130000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:20:33.472Z",
+      "details": [
+        {
+          "id": "det-1784733633472-235",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "22:00 - 23:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-633472-538"
+    },
+    {
+      "id": "book-1784733706732",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-706732-175",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 13000,
+      "finalAmount": 117000,
+      "paymentMethod": "BRI",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:21:46.732Z",
+      "details": [
+        {
+          "id": "det-1784733706732-102",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "11:00 - 12:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-706732-175"
+    },
+    {
+      "id": "book-1784733724693",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-724693-135",
+      "courtCategory": "futsal",
+      "totalAmount": 150000,
+      "discountAmount": 15000,
+      "finalAmount": 135000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:22:04.693Z",
+      "details": [
+        {
+          "id": "det-1784733724693-263",
+          "bookingId": "",
+          "courtId": "court-futsal-vinyl",
+          "courtName": "Lapangan Futsal Vinyl Premium",
+          "date": "2026-07-22",
+          "timeSlot": "17:00 - 18:00",
+          "price": 150000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-724693-135"
+    },
+    {
+      "id": "book-1784733737254",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-737254-285",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 13000,
+      "finalAmount": 117000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:22:17.254Z",
+      "details": [
+        {
+          "id": "det-1784733737254-64",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "10:00 - 11:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-737254-285"
+    },
+    {
+      "id": "book-1784733759260",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-759260-432",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 13000,
+      "finalAmount": 117000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:22:39.260Z",
+      "details": [
+        {
+          "id": "det-1784733759260-82",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "14:00 - 15:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-759260-432"
+    },
+    {
+      "id": "book-1784734260569",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-260569-553",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 13000,
+      "finalAmount": 117000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:31:00.569Z",
+      "details": [
+        {
+          "id": "det-1784734260569-956",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "09:00 - 10:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-260569-553"
+    },
+    {
+      "id": "book-1784734274618",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-274618-805",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 13000,
+      "finalAmount": 117000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:31:14.618Z",
+      "details": [
+        {
+          "id": "det-1784734274618-823",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "21:00 - 22:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-274618-805"
+    },
+    {
+      "id": "book-1784734306907",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-306907-617",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 13000,
+      "finalAmount": 117000,
+      "paymentMethod": "BRI",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:31:46.907Z",
+      "details": [
+        {
+          "id": "det-1784734306907-569",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "20:00 - 21:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-306907-617"
+    },
+    {
+      "id": "book-1784734342253",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-342253-174",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 13000,
+      "finalAmount": 117000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:32:22.253Z",
+      "details": [
+        {
+          "id": "det-1784734342253-979",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "12:00 - 13:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-342253-174"
+    },
+    {
+      "id": "book-1784734402702",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-402702-637",
+      "courtCategory": "futsal",
+      "totalAmount": 150000,
+      "discountAmount": 15000,
+      "finalAmount": 135000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:33:22.702Z",
+      "details": [
+        {
+          "id": "det-1784734402702-444",
+          "bookingId": "",
+          "courtId": "court-futsal-vinyl",
+          "courtName": "Lapangan Futsal Vinyl Premium",
+          "date": "2026-07-22",
+          "timeSlot": "12:00 - 13:00",
+          "price": 150000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-402702-637"
+    },
+    {
+      "id": "book-1784735256256",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userEmail": "user@utmsport.com",
+      "userPhone": "081339638842",
+      "invoiceNumber": "INV-256256-101",
+      "courtCategory": "futsal",
+      "totalAmount": 130000,
+      "discountAmount": 13000,
+      "finalAmount": 117000,
+      "paymentMethod": "BCA",
+      "bookingType": "harian",
+      "status": "menunggu_pembayaran",
+      "notes": "",
+      "createdAt": "2026-07-22T15:47:36.256Z",
+      "details": [
+        {
+          "id": "det-1784735256256-655",
+          "bookingId": "",
+          "courtId": "court-futsal-rumput",
+          "courtName": "Lapangan Futsal Rumput Sintetis",
+          "date": "2026-07-22",
+          "timeSlot": "16:00 - 17:00",
+          "price": 130000
+        }
+      ],
+      "qrCodeUrl": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=INV-256256-101"
+    }
+  ],
+  "vouchers": [
+    {
+      "id": "v-diskon10",
+      "code": "UTM10",
+      "discountType": "percent",
+      "value": 10,
+      "minPurchase": 100000,
+      "description": "Diskon 10% untuk semua lapangan dengan minimal transaksi Rp 100.000.",
+      "status": "aktif"
+    },
+    {
+      "id": "v-potong30k",
+      "code": "UTMHEBAT",
+      "discountType": "flat",
+      "value": 30000,
+      "minPurchase": 120000,
+      "description": "Potongan harga Rp 30.000 untuk lapangan futsal dengan minimal transaksi Rp 120.000.",
+      "status": "aktif"
+    },
+    {
+      "id": "v-membergold",
+      "code": "MEMBGOLD",
+      "discountType": "percent",
+      "value": 15,
+      "minPurchase": 80000,
+      "description": "Diskon eksklusif 15% khusus Member Gold.",
+      "status": "aktif"
+    }
+  ],
+  "promos": [
+    {
+      "id": "p-flash",
+      "title": "Flash Sale Selasa Hebat",
+      "description": "Diskon 20% khusus hari Selasa pukul 08:00 - 14:00 WITA. Berlaku semua jenis lapangan futsal & voli.",
+      "discountPercent": 20,
+      "imageUrl": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?auto=format&fit=crop&q=80&w=600",
+      "expiryDate": "2026-08-31"
+    },
+    {
+      "id": "p-merdeka",
+      "title": "Promo Spesial Hari Kemerdekaan",
+      "description": "Cashback Point 50% untuk booking di tanggal 17 Agustus 2026. Main lebih seru, dapat poin melimpah!",
+      "discountPercent": 15,
+      "imageUrl": "https://images.unsplash.com/photo-1540747737956-378724044602?auto=format&fit=crop&q=80&w=600",
+      "expiryDate": "2026-08-18"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "courtId": "court-futsal-vinyl",
+      "userId": "user-regular",
+      "userName": "Rahmat Mulyadi Fadillah",
+      "userPhoto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150",
+      "rating": 5,
+      "reviewText": "Lantai vinyl nya empuk banget dan ga licin! Penerangan malam hari sangat terang benderang. Pelayanan admin ramah banget, langsung dikasih air mineral gratis pas pertama kali main. Recommended!",
+      "createdAt": "2026-07-01T20:30:00Z"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g-1",
+      "title": "Grand Opening UTM Sport Center",
+      "imageUrl": "/uploads/upload-1784047433682.jpg",
+      "category": "event"
+    },
+    {
+      "id": "g-2",
+      "title": "Pertandingan Futsal Persahabatan",
+      "imageUrl": "/uploads/upload-1784047501711.webp",
+      "category": "event"
+    },
+    {
+      "id": "g-1784047594390",
+      "title": "Polresta Bulungan Amankan Kick Off Pena Open Turnamen Futsal",
+      "category": "event",
+      "imageUrl": "/uploads/upload-1784047591087.webp"
+    },
+    {
+      "id": "g-1784048303440",
+      "title": "Kantin Higienis, Menyediakan makanan ringan, air mineral, minuman berenergi, dan mie instan hangat untuk memulihkan stamina bermain.",
+      "category": "fasilitas",
+      "imageUrl": "/uploads/upload-1784048299689.jpg"
+    },
+    {
+      "id": "g-1784048406368",
+      "title": "Musholla, Dilengkapi dengan sajadah, mukena, sarung bersih, dan tempat wudhu yang nyaman terpisah untuk laki-laki dan perempuan.",
+      "category": "fasilitas",
+      "imageUrl": "/uploads/upload-1784048402685.jpg"
+    },
+    {
+      "id": "g-1784048452677",
+      "title": "Locker & Ruang Ganti Ruang ganti  yang bersih dilengkapi dengan locker penyimpanan barang berharga dengan kunci pengaman individual.",
+      "category": "fasilitas",
+      "imageUrl": "/uploads/upload-1784048448501.jpeg"
+    },
+    {
+      "id": "g-1784048488549",
+      "title": "Parkir Luas & Aman Area parkir beraspal luas untuk 50+ motor dan 15+ mobil dilindungi kamera CCTV 24 jam dan petugas keamanan.",
+      "category": "fasilitas",
+      "imageUrl": "/uploads/upload-1784048484096.jpg"
+    },
+    {
+      "id": "g-1784048663169",
+      "title": "Event Futsal 2026 Momen kebersamaan, semangat sportivitas, dan perjuangan seluruh peserta dalam memeriahkan turnamen futsal.",
+      "category": "event",
+      "imageUrl": "/uploads/upload-1784048658626.jpeg"
+    },
+    {
+      "id": "g-1784048722318",
+      "title": "Turnamen Futsal Momen-momen terbaik selama pertandingan berlangsung, penuh semangat, kerja sama tim, dan sportivitas.",
+      "category": "event",
+      "imageUrl": "/uploads/upload-1784048716702.jpeg"
+    }
+  ],
+  "articles": [
+    {
+      "id": "art-1",
+      "title": "5 Tips Penting Menghindari Cedera Saat Bermain Futsal",
+      "summary": "Bermain futsal sangat menyenangkan, namun risiko cedera selalu mengintai jika Anda mengabaikan pemanasan dan perlengkapan.",
+      "content": "Futsal adalah olahraga dengan tempo tinggi yang membutuhkan akselerasi, deselerasi cepat, dan kontak fisik. Untuk menghindari cedera, perhatikan 5 tips berikut:\n\n1. **Pemanasan yang Cukup**: Lakukan dinamis stretching minimal 10 menit sebelum masuk lapangan.\n2. **Gunakan Sepatu yang Tepat**: Pilih sepatu futsal dengan outsole karet anti selip yang sesuai dengan jenis lantai (vinyl atau interlock).\n3. **Gunakan Dekker pelindung tulang kering** untuk menghindari benturan langsung.\n4. **Hidrasi Tubuh**: Minum air putih 200-300ml setiap 15-20 menit bermain.\n5. **Pendinginan (Cooling Down)**: Lakukan peregangan statis setelah bermain untuk mengembalikan kelenturan otot.",
+      "imageUrl": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?auto=format&fit=crop&q=80&w=600",
+      "author": "Coach Rahmat",
+      "date": "2026-07-01",
+      "views": 124
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "Bagaimana cara melakukan booking lapangan?",
+      "answer": "Anda dapat mendaftar akun terlebih dahulu, memilih menu Lapangan, tentukan jenis lapangan, tanggal, jam bermain, lalu selesaikan pembayaran via transfer Bank atau E-Wallet yang tersedia.",
+      "category": "booking"
+    },
+    {
+      "id": "faq-2",
+      "question": "Apakah bisa membatalkan booking yang sudah dibayar?",
+      "answer": "Pembatalan booking dapat dilakukan maksimal 24 jam sebelum jadwal bermain. Poin refund atau uang akan dikembalikan dalam bentuk Point Reward sebesar 80% dari total nominal transaksi.",
+      "category": "kebijakan"
+    },
+    {
+      "id": "faq-3",
+      "question": "Bagaimana cara menjadi member UTM Sport?",
+      "answer": "Silakan masuk ke halaman Dashboard User lalu pilih menu Membership. Anda bisa membeli paket Bronze, Silver, atau Gold untuk mendapatkan diskon otomatis setiap kali booking.",
+      "category": "member"
+    }
+  ],
+  "tournaments": [
+    {
+      "id": "tour-1",
+      "name": "UTM Futsal Cup Mataram 2026",
+      "description": "Turnamen futsal antar instansi dan umum se-Kota Mataram. Perebutkan piala bergilir dan total hadiah puluhan juta rupiah!",
+      "fee": 350000,
+      "prize": "Total Rp 15.000.000 + Trophy",
+      "participantsCount": 14,
+      "maxParticipants": 32,
+      "date": "2026-08-15",
+      "status": "buka",
+      "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80&w=600"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-1",
+      "name": "Coaching Clinic Futsal Bersama Pelatih Nasional",
+      "description": "Belajar langsung teknik dasar, taktik tanding futsal modern bersama pelatih tim nasional Indonesia.",
+      "date": "2026-07-25",
+      "time": "08:00 - 12:00 WITA",
+      "fee": 50000,
+      "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b?auto=format&fit=crop&q=80&w=600",
+      "location": "UTM Sport Center Court A"
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "sp-1",
+      "name": "Specs Indonesia",
+      "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=150"
+    },
+    {
+      "id": "sp-2",
+      "name": "Mizuno",
+      "imageUrl": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?auto=format&fit=crop&q=80&w=150"
+    },
+    {
+      "id": "sp-3",
+      "name": "Pocari Sweat",
+      "imageUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&q=80&w=150"
+    }
+  ],
+  "chats": [],
+  "notifications": [
+    {
+      "id": "notif-1783418872620",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-862953-750 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-07T10:07:52.620Z"
+    },
+    {
+      "id": "notif-1783418909201",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-899544-130 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-07T10:08:29.201Z"
+    },
+    {
+      "id": "notif-1783423073253",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-063538-276 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-07T11:17:53.253Z"
+    },
+    {
+      "id": "notif-1783423181711",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-171982-260 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-07T11:19:41.711Z"
+    },
+    {
+      "id": "notif-1783423383368",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-373649-233 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-07T11:23:03.368Z"
+    },
+    {
+      "id": "notif-1783425064970",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-055200-361 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-07T11:51:04.970Z"
+    },
+    {
+      "id": "notif-1783425521867",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-512074-447 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-07T11:58:41.867Z"
+    },
+    {
+      "id": "notif-1783425950156",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #UTM-MEMB-9765 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-07T12:05:50.156Z"
+    },
+    {
+      "id": "notif-1783426018066",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-008311-389 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-07T12:06:58.066Z"
+    },
+    {
+      "id": "notif-1783426125973",
+      "userId": "user-admin",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-116192-851 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-07T12:08:45.973Z"
+    },
+    {
+      "id": "notif-1783887292379",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-291535-892 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-12T20:14:52.379Z"
+    },
+    {
+      "id": "notif-1783887314695",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-313876-520 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-12T20:15:14.695Z"
+    },
+    {
+      "id": "notif-1783887503417",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-123456 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-12T20:18:23.417Z"
+    },
+    {
+      "id": "notif-1783887560192",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-456789 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-12T20:19:20.192Z"
+    },
+    {
+      "id": "notif-1784733468784",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-468744-267 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:17:48.784Z"
+    },
+    {
+      "id": "notif-1784733576318",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-576312-355 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": false,
+      "createdAt": "2026-07-22T15:19:36.318Z"
+    },
+    {
+      "id": "notif-1784733594994",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-594989-961 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": false,
+      "createdAt": "2026-07-22T15:19:54.994Z"
+    },
+    {
+      "id": "notif-1784733617182",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-617174-351 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": false,
+      "createdAt": "2026-07-22T15:20:17.182Z"
+    },
+    {
+      "id": "notif-1784733633480",
+      "userId": "user-1783418602882",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-633472-538 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": false,
+      "createdAt": "2026-07-22T15:20:33.480Z"
+    },
+    {
+      "id": "notif-1784733706737",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-706732-175 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:21:46.737Z"
+    },
+    {
+      "id": "notif-1784733724700",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-724693-135 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:22:04.700Z"
+    },
+    {
+      "id": "notif-1784733737259",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-737254-285 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:22:17.259Z"
+    },
+    {
+      "id": "notif-1784733759267",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-759260-432 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:22:39.267Z"
+    },
+    {
+      "id": "notif-1784734260575",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-260569-553 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:31:00.575Z"
+    },
+    {
+      "id": "notif-1784734274625",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-274618-805 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:31:14.625Z"
+    },
+    {
+      "id": "notif-1784734306913",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-306907-617 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:31:46.913Z"
+    },
+    {
+      "id": "notif-1784734342258",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-342253-174 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:32:22.258Z"
+    },
+    {
+      "id": "notif-1784734402712",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-402702-637 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:33:22.712Z"
+    },
+    {
+      "id": "notif-1784734493118-ditolak",
+      "userId": "user-regular",
+      "title": "Status Booking: DITOLAK",
+      "message": "Booking #INV-456789 status Anda telah diupdate menjadi ditolak.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:34:53.118Z"
+    },
+    {
+      "id": "notif-user-rejected-1784734493128",
+      "userId": "user-regular",
+      "title": "Booking Ditolak ❌",
+      "message": "Mohon maaf, sewa lapangan #INV-456789 ditolak oleh admin. Silakan periksa atau lakukan pemesanan ulang.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:34:53.128Z"
+    },
+    {
+      "id": "notif-1784735256276",
+      "userId": "user-regular",
+      "title": "Booking Berhasil Dibuat!",
+      "message": "Booking #INV-256256-101 berhasil dibuat. Silakan unggah bukti pembayaran agar dapat segera dikonfirmasi.",
+      "isRead": true,
+      "createdAt": "2026-07-22T15:47:36.276Z"
+    }
+  ],
+  "logs": [
+    {
+      "id": "log-1783418602885",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "REGISTER",
+      "details": "Mendaftar akun baru",
+      "createdAt": "2026-07-07T10:03:22.885Z"
+    },
+    {
+      "id": "log-1783418872619",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-862953-750, mendapatkan 150 Points.",
+      "createdAt": "2026-07-07T10:07:52.619Z"
+    },
+    {
+      "id": "log-1783418909201",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-899544-130, mendapatkan 130 Points.",
+      "createdAt": "2026-07-07T10:08:29.201Z"
+    },
+    {
+      "id": "log-1783419222433",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T10:13:42.433Z"
+    },
+    {
+      "id": "log-1783422039464",
+      "userId": "user-superadmin",
+      "userEmail": "superadmin@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:00:39.464Z"
+    },
+    {
+      "id": "log-1783422540815",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:09:00.815Z"
+    },
+    {
+      "id": "log-1783422979329",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:16:19.329Z"
+    },
+    {
+      "id": "log-1783423073253",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-063538-276, mendapatkan 150 Points.",
+      "createdAt": "2026-07-07T11:17:53.253Z"
+    },
+    {
+      "id": "log-1783423104997",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:18:24.997Z"
+    },
+    {
+      "id": "log-1783423172787",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:19:32.787Z"
+    },
+    {
+      "id": "log-1783423181710",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-171982-260, mendapatkan 130 Points.",
+      "createdAt": "2026-07-07T11:19:41.710Z"
+    },
+    {
+      "id": "log-1783423383367",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-373649-233, mendapatkan 130 Points.",
+      "createdAt": "2026-07-07T11:23:03.367Z"
+    },
+    {
+      "id": "log-1783424014121",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:33:34.121Z"
+    },
+    {
+      "id": "log-1783424359137",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:39:19.137Z"
+    },
+    {
+      "id": "log-1783425064970",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-055200-361, mendapatkan 150 Points.",
+      "createdAt": "2026-07-07T11:51:04.970Z"
+    },
+    {
+      "id": "log-1783425091943",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:51:31.943Z"
+    },
+    {
+      "id": "log-1783425121640",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOCK_SCHEDULE",
+      "details": "Mengubah status jadwal lapangan court-futsal-vinyl tanggal 2026-07-07 jam 07:00 - 08:00 menjadi dipesan",
+      "createdAt": "2026-07-07T11:52:01.640Z"
+    },
+    {
+      "id": "log-1783425124551",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOCK_SCHEDULE",
+      "details": "Mengubah status jadwal lapangan court-futsal-vinyl tanggal 2026-07-07 jam 07:00 - 08:00 menjadi tersedia",
+      "createdAt": "2026-07-07T11:52:04.551Z"
+    },
+    {
+      "id": "log-1783425127333",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOCK_SCHEDULE",
+      "details": "Mengubah status jadwal lapangan court-futsal-vinyl tanggal 2026-07-07 jam 08:00 - 09:00 menjadi tersedia",
+      "createdAt": "2026-07-07T11:52:07.333Z"
+    },
+    {
+      "id": "log-1783425129514",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOCK_SCHEDULE",
+      "details": "Mengubah status jadwal lapangan court-futsal-vinyl tanggal 2026-07-07 jam 09:00 - 10:00 menjadi tersedia",
+      "createdAt": "2026-07-07T11:52:09.514Z"
+    },
+    {
+      "id": "log-1783425131555",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOCK_SCHEDULE",
+      "details": "Mengubah status jadwal lapangan court-futsal-vinyl tanggal 2026-07-07 jam 09:00 - 10:00 menjadi terkunci",
+      "createdAt": "2026-07-07T11:52:11.555Z"
+    },
+    {
+      "id": "log-1783425135062",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOCK_SCHEDULE",
+      "details": "Mengubah status jadwal lapangan court-futsal-vinyl tanggal 2026-07-07 jam 09:00 - 10:00 menjadi dipesan",
+      "createdAt": "2026-07-07T11:52:15.062Z"
+    },
+    {
+      "id": "log-1783425136878",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOCK_SCHEDULE",
+      "details": "Mengubah status jadwal lapangan court-futsal-vinyl tanggal 2026-07-07 jam 09:00 - 10:00 menjadi tersedia",
+      "createdAt": "2026-07-07T11:52:16.878Z"
+    },
+    {
+      "id": "log-1783425509394",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:58:29.394Z"
+    },
+    {
+      "id": "log-1783425521866",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-512074-447, mendapatkan 150 Points.",
+      "createdAt": "2026-07-07T11:58:41.866Z"
+    },
+    {
+      "id": "log-1783425540502",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:59:00.502Z"
+    },
+    {
+      "id": "log-1783425598019",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T11:59:58.019Z"
+    },
+    {
+      "id": "log-1783425611466",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T12:00:11.466Z"
+    },
+    {
+      "id": "log-1783425950155",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #UTM-MEMB-9765, mendapatkan 50 Points.",
+      "createdAt": "2026-07-07T12:05:50.155Z"
+    },
+    {
+      "id": "log-1783425978606",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T12:06:18.606Z"
+    },
+    {
+      "id": "log-1783426003495",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T12:06:43.495Z"
+    },
+    {
+      "id": "log-1783426018065",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-008311-389, mendapatkan 150 Points.",
+      "createdAt": "2026-07-07T12:06:58.065Z"
+    },
+    {
+      "id": "log-1783426049027",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T12:07:29.027Z"
+    },
+    {
+      "id": "log-1783426066152",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T12:07:46.152Z"
+    },
+    {
+      "id": "log-1783426125972",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-116192-851, mendapatkan 135 Points.",
+      "createdAt": "2026-07-07T12:08:45.972Z"
+    },
+    {
+      "id": "log-1783426192504",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-07T12:09:52.504Z"
+    },
+    {
+      "id": "log-1783885479176",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-12T19:44:39.176Z"
+    },
+    {
+      "id": "log-1783887292378",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-291535-892, mendapatkan 150 Points.",
+      "createdAt": "2026-07-12T20:14:52.378Z"
+    },
+    {
+      "id": "log-1783887314694",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-313876-520, mendapatkan 150 Points.",
+      "createdAt": "2026-07-12T20:15:14.694Z"
+    },
+    {
+      "id": "log-1783887503414",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-123456, mendapatkan 150 Points.",
+      "createdAt": "2026-07-12T20:18:23.414Z"
+    },
+    {
+      "id": "log-1783887560191",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-456789, mendapatkan 150 Points.",
+      "createdAt": "2026-07-12T20:19:20.191Z"
+    },
+    {
+      "id": "log-1784035299427",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-14T13:21:39.427Z"
+    },
+    {
+      "id": "log-1784035457964",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_COURT",
+      "details": "Mengupdate lapangan: Lapangan Futsal Vinyl Premium",
+      "createdAt": "2026-07-14T13:24:17.964Z"
+    },
+    {
+      "id": "log-1784035481641",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_COURT",
+      "details": "Mengupdate lapangan: Lapangan Futsal Rumput Sintetis",
+      "createdAt": "2026-07-14T13:24:41.641Z"
+    },
+    {
+      "id": "log-1784035503673",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_COURT",
+      "details": "Mengupdate lapangan: Lapangan Futsal Interlock",
+      "createdAt": "2026-07-14T13:25:03.673Z"
+    },
+    {
+      "id": "log-1784035532901",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "DELETE_TESTIMONIAL",
+      "details": "Menghapus testimoni ID: test-1",
+      "createdAt": "2026-07-14T13:25:32.901Z"
+    },
+    {
+      "id": "log-1784035549152",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "DELETE_TESTIMONIAL",
+      "details": "Menghapus testimoni ID: test-2",
+      "createdAt": "2026-07-14T13:25:49.152Z"
+    },
+    {
+      "id": "log-1784035562662",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "DELETE_TESTIMONIAL",
+      "details": "Menghapus testimoni ID: test-3",
+      "createdAt": "2026-07-14T13:26:02.662Z"
+    },
+    {
+      "id": "log-1784035777255",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "DELETE_MENU",
+      "details": "Menghapus menu navigasi ID: m-5",
+      "createdAt": "2026-07-14T13:29:37.255Z"
+    },
+    {
+      "id": "log-1784035848074",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "CREATE_MENU",
+      "details": "Menambah menu navigasi: Galeri",
+      "createdAt": "2026-07-14T13:30:48.074Z"
+    },
+    {
+      "id": "log-1784035883471",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_MENU",
+      "details": "Mengubah menu navigasi: Galeri",
+      "createdAt": "2026-07-14T13:31:23.471Z"
+    },
+    {
+      "id": "log-1784038710336",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Grand Opening UTM Sport Center",
+      "createdAt": "2026-07-14T14:18:30.336Z"
+    },
+    {
+      "id": "log-1784038848731",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Grand Opening UTM Sport Center",
+      "createdAt": "2026-07-14T14:20:48.731Z"
+    },
+    {
+      "id": "log-1784043689469",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Pertandingan Futsal Persahabatan",
+      "createdAt": "2026-07-14T15:41:29.469Z"
+    },
+    {
+      "id": "log-1784047301828",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Pertandingan Futsal Persahabatan",
+      "createdAt": "2026-07-14T16:41:41.828Z"
+    },
+    {
+      "id": "log-1784047438441",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Grand Opening UTM Sport Center",
+      "createdAt": "2026-07-14T16:43:58.441Z"
+    },
+    {
+      "id": "log-1784047506326",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Pertandingan Futsal Persahabatan",
+      "createdAt": "2026-07-14T16:45:06.326Z"
+    },
+    {
+      "id": "log-1784047594405",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "CREATE_GALLERY",
+      "details": "Menambah galeri foto: Polresta Bulungan Amankan Kick Off Pena Open Turnamen Futsal",
+      "createdAt": "2026-07-14T16:46:34.405Z"
+    },
+    {
+      "id": "log-1784048303455",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "CREATE_GALLERY",
+      "details": "Menambah galeri foto: Kantin Higienis, Menyediakan makanan ringan, air mineral, minuman berenergi, dan mie instan hangat untuk memulihkan stamina bermain.",
+      "createdAt": "2026-07-14T16:58:23.455Z"
+    },
+    {
+      "id": "log-1784048406372",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "CREATE_GALLERY",
+      "details": "Menambah galeri foto: Musholla, Dilengkapi dengan sajadah, mukena, sarung bersih, dan tempat wudhu yang nyaman terpisah untuk laki-laki dan perempuan.",
+      "createdAt": "2026-07-14T17:00:06.372Z"
+    },
+    {
+      "id": "log-1784048452681",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "CREATE_GALLERY",
+      "details": "Menambah galeri foto: Locker & Ruang Ganti Ruang ganti  yang bersih dilengkapi dengan locker penyimpanan barang berharga dengan kunci pengaman individual.",
+      "createdAt": "2026-07-14T17:00:52.681Z"
+    },
+    {
+      "id": "log-1784048458638",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "DELETE_GALLERY",
+      "details": "Menghapus galeri foto ID: g-4",
+      "createdAt": "2026-07-14T17:00:58.638Z"
+    },
+    {
+      "id": "log-1784048488552",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "CREATE_GALLERY",
+      "details": "Menambah galeri foto: Parkir Luas & Aman Area parkir beraspal luas untuk 50+ motor dan 15+ mobil dilindungi kamera CCTV 24 jam dan petugas keamanan.",
+      "createdAt": "2026-07-14T17:01:28.552Z"
+    },
+    {
+      "id": "log-1784048663173",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "CREATE_GALLERY",
+      "details": "Menambah galeri foto: Event Futsal 2026 Momen kebersamaan, semangat sportivitas, dan perjuangan seluruh peserta dalam memeriahkan turnamen futsal.",
+      "createdAt": "2026-07-14T17:04:23.173Z"
+    },
+    {
+      "id": "log-1784048722321",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "CREATE_GALLERY",
+      "details": "Menambah galeri foto: Turnamen Futsal Momen-momen terbaik selama pertandingan berlangsung, penuh semangat, kerja sama tim, dan sportivitas.",
+      "createdAt": "2026-07-14T17:05:22.321Z"
+    },
+    {
+      "id": "log-1784048761187",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Event Futsal 2026 Momen kebersamaan, semangat sportivitas, dan perjuangan seluruh peserta dalam memeriahkan turnamen futsal.",
+      "createdAt": "2026-07-14T17:06:01.187Z"
+    },
+    {
+      "id": "log-1784048825008",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Kantin Higienis, Menyediakan makanan ringan, air mineral, minuman berenergi, dan mie instan hangat untuk memulihkan stamina bermain.",
+      "createdAt": "2026-07-14T17:07:05.008Z"
+    },
+    {
+      "id": "log-1784048835528",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Musholla, Dilengkapi dengan sajadah, mukena, sarung bersih, dan tempat wudhu yang nyaman terpisah untuk laki-laki dan perempuan.",
+      "createdAt": "2026-07-14T17:07:15.528Z"
+    },
+    {
+      "id": "log-1784048845115",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Locker & Ruang Ganti Ruang ganti  yang bersih dilengkapi dengan locker penyimpanan barang berharga dengan kunci pengaman individual.",
+      "createdAt": "2026-07-14T17:07:25.115Z"
+    },
+    {
+      "id": "log-1784048853647",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Event Futsal 2026 Momen kebersamaan, semangat sportivitas, dan perjuangan seluruh peserta dalam memeriahkan turnamen futsal.",
+      "createdAt": "2026-07-14T17:07:33.647Z"
+    },
+    {
+      "id": "log-1784048862190",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Parkir Luas & Aman Area parkir beraspal luas untuk 50+ motor dan 15+ mobil dilindungi kamera CCTV 24 jam dan petugas keamanan.",
+      "createdAt": "2026-07-14T17:07:42.190Z"
+    },
+    {
+      "id": "log-1784051759269",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Kantin Higienis, Menyediakan makanan ringan, air mineral, minuman berenergi, dan mie instan hangat untuk memulihkan stamina bermain.",
+      "createdAt": "2026-07-14T17:55:59.269Z"
+    },
+    {
+      "id": "log-1784051782782",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Locker & Ruang Ganti Ruang ganti  yang bersih dilengkapi dengan locker penyimpanan barang berharga dengan kunci pengaman individual.",
+      "createdAt": "2026-07-14T17:56:22.782Z"
+    },
+    {
+      "id": "log-1784051803206",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Musholla, Dilengkapi dengan sajadah, mukena, sarung bersih, dan tempat wudhu yang nyaman terpisah untuk laki-laki dan perempuan.",
+      "createdAt": "2026-07-14T17:56:43.206Z"
+    },
+    {
+      "id": "log-1784051830656",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_GALLERY",
+      "details": "Mengubah galeri foto: Parkir Luas & Aman Area parkir beraspal luas untuk 50+ motor dan 15+ mobil dilindungi kamera CCTV 24 jam dan petugas keamanan.",
+      "createdAt": "2026-07-14T17:57:10.656Z"
+    },
+    {
+      "id": "log-1784051978049",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_PROFILE",
+      "details": "Mengupdate profil user",
+      "createdAt": "2026-07-14T17:59:38.049Z"
+    },
+    {
+      "id": "log-1784052000168",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_PROFILE",
+      "details": "Mengupdate profil user",
+      "createdAt": "2026-07-14T18:00:00.168Z"
+    },
+    {
+      "id": "log-1784052356867",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_PROFILE",
+      "details": "Mengupdate profil user",
+      "createdAt": "2026-07-14T18:05:56.867Z"
+    },
+    {
+      "id": "log-1784052423963",
+      "userId": "user-admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_PROFILE",
+      "details": "Mengupdate profil user",
+      "createdAt": "2026-07-14T18:07:03.963Z"
+    },
+    {
+      "id": "log-1784733468782",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-468744-267, mendapatkan 130 Points.",
+      "createdAt": "2026-07-22T15:17:48.782Z"
+    },
+    {
+      "id": "log-1784733576316",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-576312-355, mendapatkan 150 Points.",
+      "createdAt": "2026-07-22T15:19:36.316Z"
+    },
+    {
+      "id": "log-1784733594992",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-594989-961, mendapatkan 130 Points.",
+      "createdAt": "2026-07-22T15:19:54.992Z"
+    },
+    {
+      "id": "log-1784733617180",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-617174-351, mendapatkan 130 Points.",
+      "createdAt": "2026-07-22T15:20:17.180Z"
+    },
+    {
+      "id": "log-1784733633478",
+      "userId": "user-1783418602882",
+      "userEmail": "rahmatmulyadifadillah@gmail.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-633472-538, mendapatkan 130 Points.",
+      "createdAt": "2026-07-22T15:20:33.478Z"
+    },
+    {
+      "id": "log-1784733657435",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-22T15:20:57.435Z"
+    },
+    {
+      "id": "log-1784733690617",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "UPDATE_PROFILE",
+      "details": "Mengupdate profil user",
+      "createdAt": "2026-07-22T15:21:30.617Z"
+    },
+    {
+      "id": "log-1784733706736",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-706732-175, mendapatkan 175 Points.",
+      "createdAt": "2026-07-22T15:21:46.736Z"
+    },
+    {
+      "id": "log-1784733724698",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-724693-135, mendapatkan 202 Points.",
+      "createdAt": "2026-07-22T15:22:04.698Z"
+    },
+    {
+      "id": "log-1784733737257",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-737254-285, mendapatkan 175 Points.",
+      "createdAt": "2026-07-22T15:22:17.257Z"
+    },
+    {
+      "id": "log-1784733759266",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-759260-432, mendapatkan 175 Points.",
+      "createdAt": "2026-07-22T15:22:39.266Z"
+    },
+    {
+      "id": "log-1784734246796",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "LOGIN",
+      "details": "Melakukan login berhasil",
+      "createdAt": "2026-07-22T15:30:46.796Z"
+    },
+    {
+      "id": "log-1784734260573",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-260569-553, mendapatkan 175 Points.",
+      "createdAt": "2026-07-22T15:31:00.573Z"
+    },
+    {
+      "id": "log-1784734274623",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-274618-805, mendapatkan 175 Points.",
+      "createdAt": "2026-07-22T15:31:14.623Z"
+    },
+    {
+      "id": "log-1784734306911",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-306907-617, mendapatkan 175 Points.",
+      "createdAt": "2026-07-22T15:31:46.911Z"
+    },
+    {
+      "id": "log-1784734342256",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-342253-174, mendapatkan 175 Points.",
+      "createdAt": "2026-07-22T15:32:22.256Z"
+    },
+    {
+      "id": "log-1784734402709",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-402702-637, mendapatkan 202 Points.",
+      "createdAt": "2026-07-22T15:33:22.709Z"
+    },
+    {
+      "id": "log-1784734493123",
+      "userId": "admin",
+      "userEmail": "admin@utmsport.com",
+      "action": "UPDATE_BOOKING_STATUS",
+      "details": "Update booking #INV-456789 status menjadi ditolak",
+      "createdAt": "2026-07-22T15:34:53.123Z"
+    },
+    {
+      "id": "log-1784734493153",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "UPDATE_PROFILE",
+      "details": "Mengupdate profil user",
+      "createdAt": "2026-07-22T15:34:53.153Z"
+    },
+    {
+      "id": "log-1784735256271",
+      "userId": "user-regular",
+      "userEmail": "user@utmsport.com",
+      "action": "CREATE_BOOKING",
+      "details": "Membuat booking #INV-256256-101, mendapatkan 175 Points.",
+      "createdAt": "2026-07-22T15:47:36.271Z"
+    }
+  ],
+  "settings": {
+    "maintenanceMode": false,
+    "siteName": "UTM Sport Center",
+    "whatsappContact": "081339638842",
+    "instagramContact": "rahmtmlydi__",
+    "emailContact": "rahmatmulyadifadillah@gmail.com",
+    "address": "Jl. Pemuda No. 12, Dasan Agung Baru, Kec. Selaparang, Kota Mataram, Nusa Tenggara Barat 83125, Indonesia",
+    "locationMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126244.62916167888!2d116.03541484831665!3d-8.577241285038318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1m3!1d3945.14819777598!2d116.1035515!3d-8.5833446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sid!2sid!4v1710000000000"
+  },
+  "bankAccounts": [
+    {
+      "type": "bank",
+      "name": "BCA",
+      "accountNumber": "0562234125",
+      "accountHolder": "RAHMAT MULYADI FADILLAH"
+    },
+    {
+      "type": "bank",
+      "name": "BRI",
+      "accountNumber": "0052-01-084223-50-8",
+      "accountHolder": "RAHMAT MULYADI FADILLAH"
+    },
+    {
+      "type": "bank",
+      "name": "Bank NTB Syariah",
+      "accountNumber": "5040220235489",
+      "accountHolder": "RAHMAT MULYADI FADILLAH"
+    },
+    {
+      "type": "ewallet",
+      "name": "DANA",
+      "accountNumber": "081339638842",
+      "accountHolder": "RAHMAT MULYADI FADILLAH"
+    },
+    {
+      "type": "ewallet",
+      "name": "OVO",
+      "accountNumber": "081339638842",
+      "accountHolder": "RAHMAT MULYADI FADILLAH"
+    },
+    {
+      "type": "ewallet",
+      "name": "GoPay",
+      "accountNumber": "081339638842",
+      "accountHolder": "RAHMAT MULYADI FADILLAH"
+    }
+  ],
+  "payments": [],
+  "bookingStatusHistory": [],
+  "paymentLogs": [],
+  "facilities": [
+    {
+      "id": "fac-1",
+      "name": "Kantin Higienis",
+      "icon": "Coffee",
+      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&q=80&w=300",
+      "description": "Menyediakan makanan ringan, air mineral, minuman berenergi, dan mie instan hangat untuk memulihkan stamina bermain.",
+      "order": 1
+    },
+    {
+      "id": "fac-2",
+      "name": "Musholla Bersih",
+      "icon": "Heart",
+      "image": "https://images.unsplash.com/photo-1544698310-74ea9d1c8258?auto=format&fit=crop&q=80&w=300",
+      "description": "Dilengkapi dengan sajadah, mukena, sarung bersih, dan tempat wudhu yang nyaman terpisah untuk laki-laki dan perempuan.",
+      "order": 2
+    },
+    {
+      "id": "fac-3",
+      "name": "Locker & Ruang Ganti",
+      "icon": "Lock",
+      "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&q=80&w=300",
+      "description": "Ruang ganti full AC yang bersih dilengkapi dengan locker penyimpanan barang berharga dengan kunci pengaman individual.",
+      "order": 3
+    },
+    {
+      "id": "fac-4",
+      "name": "Parkir Luas & Aman",
+      "icon": "MapPin",
+      "image": "https://images.unsplash.com/photo-1506521788701-1e13a722c19a?auto=format&fit=crop&q=80&w=300",
+      "description": "Area parkir beraspal luas untuk 50+ motor dan 15+ mobil dilindungi kamera CCTV 24 jam dan petugas keamanan.",
+      "order": 4
+    }
+  ],
+  "testimonials": [],
+  "menus": [
+    {
+      "id": "m-1",
+      "label": "Home",
+      "url": "home",
+      "order": 1,
+      "isActive": true
+    },
+    {
+      "id": "m-2",
+      "label": "Lapangan",
+      "url": "lapangan",
+      "order": 2,
+      "isActive": true
+    },
+    {
+      "id": "m-3",
+      "label": "Membership",
+      "url": "membership",
+      "order": 3,
+      "isActive": true
+    },
+    {
+      "id": "m-4",
+      "label": "Turnamen & Event",
+      "url": "turnamen",
+      "order": 4,
+      "isActive": true
+    },
+    {
+      "id": "m-6",
+      "label": "Tentang Kami",
+      "url": "tentang",
+      "order": 6,
+      "isActive": true
+    },
+    {
+      "id": "m-7",
+      "label": "FAQ",
+      "url": "faq",
+      "order": 7,
+      "isActive": true
+    },
+    {
+      "id": "m-8",
+      "label": "Kontak Kami",
+      "url": "kontak",
+      "order": 8,
+      "isActive": true
+    },
+    {
+      "id": "menu-1784035848060",
+      "label": "Galeri",
+      "view": "galeri",
+      "order": 5
+    }
+  ],
+  "membershipPackages": [
+    {
+      "id": "bronze",
+      "name": "Bronze",
+      "price": 50000,
+      "discountPercent": 5,
+      "cashbackMultiplier": 1,
+      "priorityDays": 3,
+      "description": "Dapatkan potongan harga langsung otomatis untuk setiap kali penyewaan lapangan futsal UTM Sport Center.",
+      "features": [
+        "Diskon Booking 5%",
+        "Cashback Point 1x",
+        "Booking Prioritas H-3"
+      ]
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "price": 100000,
+      "discountPercent": 10,
+      "cashbackMultiplier": 1.5,
+      "priorityDays": 5,
+      "description": "Tier Silver memberikan keleluasaan booking dengan diskon lebih tinggi dan prioritas penjadwalan lebih awal.",
+      "features": [
+        "Diskon Booking 10%",
+        "Cashback Point 1.5x",
+        "Booking Prioritas H-5"
+      ]
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "price": 200000,
+      "discountPercent": 15,
+      "cashbackMultiplier": 2,
+      "priorityDays": 7,
+      "description": "Level premium tertinggi dengan diskon maksimal, prioritas booking terpanjang, dan fasilitas istimewa di UTM Sport Center.",
+      "features": [
+        "Diskon Booking 15%",
+        "Cashback Point 2x",
+        "Booking Prioritas H-7",
+        "VIP Lounge Gratis"
+      ]
+    }
+  ]
+}

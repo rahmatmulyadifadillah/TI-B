@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: UTM Sport Center",
+  "description": "Sistem booking lapangan olahraga online modern dan premium untuk UTM Sport Center, Mataram, Nusa Tenggara Barat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
